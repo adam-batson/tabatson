@@ -17,7 +17,7 @@
 * HTML & CSS
 
 ### Contact me
-* [Email](tabatson@gmail.com)
+* [Email](mailto:tabatson@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/t-a-batson/)
 
 # Professional
