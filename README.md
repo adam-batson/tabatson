@@ -9,26 +9,15 @@
 
 ### I enjoy:
 * Creative projects - **Coding is creative!**
-* TTRPGs
+* Tabletop RPGs
 * PC gaming
+
+### I have basic knowledge of:
+* Git
+* HTML & CSS
 
 # Professional
 ![Microsoft logo](images/microsoft-logo.jpg)
 ### Data Center Technician at Microsoft
 Currently apprenticing in Software Engineering in _Microsoft Leap Internal Program_
 
-
-<!--
-**tabatson/tabatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
