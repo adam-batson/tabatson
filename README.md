@@ -16,6 +16,10 @@
 * Git
 * HTML & CSS
 
+### Contact me
+* [Email](tabatson@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/t-a-batson/)
+
 # Professional
 ![Microsoft logo](images/microsoft-logo.jpg)
 ### Data Center Technician at Microsoft
