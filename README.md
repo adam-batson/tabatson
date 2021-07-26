@@ -13,7 +13,11 @@
 * PC gaming
 
 # Professional
-![Microsoft logo](images/microsoft-logo.png)
+![Microsoft logo](images/microsoft-logo.jpg)
+### Data Center Technician at Microsoft
+Currently apprenticing in Software Engineering in _Microsoft Leap Internal Program_
+
+
 <!--
 **tabatson/tabatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
