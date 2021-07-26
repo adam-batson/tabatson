@@ -1,6 +1,16 @@
+
+# **Hello and Welcome!**
+
 ### I'm currently learning:
 * How to use Git and Github
 * HTML and CSS basics
+* Programming best practices
+
+### I enjoy:
+* Creative projects - **Coding is creative!**
+* TTRPGs
+* PC gaming
+
 
 <!--
 **tabatson/tabatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
