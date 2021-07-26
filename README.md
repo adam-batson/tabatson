@@ -1,4 +1,4 @@
-![Photo of Adam and his family](images/family.jpg)
+![Photo of Adam and his family](images/family2.jpg)
 
 # **Hello and Welcome!**
 
