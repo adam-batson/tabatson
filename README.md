@@ -1,4 +1,6 @@
-### Hi there 👋
+### I'm currently learning:
+* How to use Git and Github
+* HTML and CSS basics
 
 <!--
 **tabatson/tabatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
