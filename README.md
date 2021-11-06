@@ -4,7 +4,8 @@
 
 ### I'm currently learning:
 * How to use Git and Github
-* HTML and CSS basics
+* Web development with HTML, CSS, and JavaScript
+* C#
 * Programming best practices
 
 ### I enjoy:
@@ -12,9 +13,11 @@
 * Tabletop RPGs
 * PC gaming
 
-### I have basic knowledge of:
+### I have at least a basic knowledge of:
 * Git
 * HTML & CSS
+* C#
+* JavaScript
 
 ### Contact me
 * [Email](mailto:tabatson@gmail.com)
