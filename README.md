@@ -4,20 +4,21 @@
 
 ### I'm currently learning:
 * How to use Git and Github
-* Web development with HTML, CSS, and JavaScript
+* Web development with HTML, CSS, JavaScript, React
 * C#
 * Programming best practices
 
 ### I enjoy:
-* Creative projects - **Coding is creative!**
+* Creative projects
+* Problem Solving
 * Tabletop RPGs
 * PC gaming
 
-### I have at least a basic knowledge of:
+### I have a basic knowledge of:
 * Git
 * HTML & CSS
 * C#
-* JavaScript
+* JavaScript, React
 
 ### Contact me
 * [Email](mailto:tabatson@gmail.com)
