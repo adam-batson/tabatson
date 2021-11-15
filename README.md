@@ -18,7 +18,8 @@
 * Git
 * HTML & CSS
 * C#
-* JavaScript, React
+* SQL
+* JavaScript & React
 
 ### Contact me
 * [Email](mailto:tabatson@gmail.com)
