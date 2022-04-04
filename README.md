@@ -26,7 +26,5 @@
 * [LinkedIn](https://www.linkedin.com/in/t-a-batson/)
 
 # Professional
-![Microsoft logo](images/microsoft-logo.jpg)
-### Data Center Technician at Microsoft
-Currently apprenticing in Software Engineering in _Microsoft Leap Internal Program_
+Software Engineering apprentice in _Microsoft Leap Internal Program_
 
